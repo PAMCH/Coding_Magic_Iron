@@ -1,0 +1,4 @@
+﻿  ex11-1.cpp
+E:\Project\Coding_Magic_Iron\ex11-1\ex11-1\ex11-1.cpp(10,14): warning C4309: '초기화 중': 상수 값이 잘립니다.
+E:\Project\Coding_Magic_Iron\ex11-1\ex11-1\ex11-1.cpp(11,14): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  ex11-1.vcxproj -> E:\Project\Coding_Magic_Iron\ex11-1\x64\Debug\ex11-1.exe
