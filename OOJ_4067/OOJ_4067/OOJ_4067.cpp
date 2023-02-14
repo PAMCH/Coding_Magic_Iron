@@ -21,7 +21,7 @@ int lcm(int x, int y) {
 
 int main()
 {
-	int p = 0, d, day = 01;
+	int p = 0, d, day = -1;
 
 	for (int i = 1; i <= 3; i++) {
 		scanf("%d %d", &a[i], &b[i]);
