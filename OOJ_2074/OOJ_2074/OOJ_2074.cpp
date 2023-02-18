@@ -16,7 +16,7 @@ int isWiggle(int start, int end) {
 	int toggle = a[start] < a[start + 1] ? 1 : 0;
 
 	for (int i = start; i <= end - 1; i++) {
-		if (!((toggle == 1 && a[i] < a[i + 1]) || (toggle == 0 && a[i] > a[+1])))
+		if (!((toggle == 1 && a[i] < a[i + 1]) || (toggle == 0 && a[i] > a[i+1])))
 			return 0;
 		toggle = 1 - toggle;
 	}
